@@ -14,4 +14,5 @@
     'use strict';
 
     document.getElementById("MySubscribedItems").style.height = "1200px";
+   document.getElementById("MyFavoriteItems").style.height = "1200px"; 
 })();
